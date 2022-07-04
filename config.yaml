@@ -1,0 +1,5 @@
+bot_token: 
+database_url: 
+contract_address: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+check_every: 5
+sendNotificationsTo: 
