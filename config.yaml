@@ -2,4 +2,4 @@ bot_token: 5505417026:AAGaOZcNWxK6alNBpSx3ADv5YZDJiPWioX8
 database_url: postgres://wsmqscvjfzynvt:0a09a10824f54186bb6134eddbe55e8b03b6294d7ab694008f7b69b57b1a62e9@ec2-52-201-124-168.compute-1.amazonaws.com:5432/dm6ct22u9cttl
 contract_address: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
 check_every: 5
-sendNotificationsTo: /notify
+sendNotificationsTo: 
